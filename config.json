@@ -1,0 +1,29 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "c1e9a136e102af192cc0b826caae590eff582510937a45fea47b3b85ab0570401d396ab4628bbe24019c5",
+				"group_id": "club1",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"longpoll": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/823827768554946572/F0H-h551bB1UHoNBBRAfzhdyJ4p2JjICouuQGONMw4UM5vtjGY9AQSNWWaLyuMlzBjwP"
+				],
+				"username": "",
+				"avatar_url": "",
+				"content": "",
+				"color": "#aabbcc",
+				"author": true,
+				"copyright": true
+			}
+		}
+	],
+	"version_dont_modify_me": 4
+}
